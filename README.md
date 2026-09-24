@@ -38,7 +38,9 @@ This repository contains the notes and the work(lab work & self exercises) done 
 
 The lecture notes are organized by chapter and lecture. You can find them in the [`notes`](./notes) directory.
 
-- Notes of 1.1 are completed and available in the [`notes/lec_1.1.png`](./notes/lec_1.1.png).
+- Notes of 1.2 are completed and available in the [`notes/lec_1.2.png`](./notes/lec_1.2.png).
+- Notes of 1.3 are completed and available in the [`notes/lec_1.3.png`](./notes/lec_1.3.png).
+- Notes of 1.4 are completed and available in the [`notes/lec_1.4.png`](./notes/lec_1.4.png).
 <!-- - Notes of nextlec will be completed and available in the `notes/lec_nextlec.png` once completed. -->
 
 <!-- ## Projects
@@ -47,7 +49,9 @@ The lecture notes are organized by chapter and lecture. You can find them in the
 
 ## Extra Projects
 
-- K-Means New Smartphone Customer Segmentation is completed and available in the repo [`projects/K-means/`](./projects/K-means/)
+- K-Means New Smartphone Customer Segmentation is completed and available in [`projects/K-means/`](./projects/K-means/)
+- Hierarchical Clustering Customer Segmentation is completed and available in [`projects/Hierarchical-Clustering/`](./projects/Hierarchical-Clustering/)
+- DBSCAN Customer Segmentation is completed and available in [`projects/DBSCAN/`](./projects/DBSCAN/)
 
 ## License
 
